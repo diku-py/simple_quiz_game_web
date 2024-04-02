@@ -1,4 +1,6 @@
-const apiUrl = 'https://opentdb.com/api.php?amount=50&category=9&difficulty=medium&type=multiple'; // Adjust 'amount' for the number of questions
+const apiUrl = 'https://opentdb.com/api.php?amount=50&category=9&difficulty=medium&type=multiple'; /* Adjust 'amount' for the number of questions, 
+'category' for the questions to be based on tech, geography, history, etc, 'difficulty' for the mode(easy, medium, hard), 'type' for the type of questions i.e True/False 
+MCQ etc. You can also create your own API url through 'https://https://opentdb.com/api_config.php' */
 let currentQuestionIndex = 0;
 let score = 0;
 
