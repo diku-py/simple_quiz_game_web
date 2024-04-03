@@ -6,6 +6,14 @@ A simple quiz game based on a category(through api adjustable) with 50 max quest
 
 Hope you like it!
 
+## Screenshots
+
+![Screenshot from 2024-04-03 10-34-44](https://github.com/diku-py/simple_quiz_game_web/assets/165680478/8df17c60-35b6-454b-b439-726b034438c5)
+
+![Screenshot from 2024-04-03 10-34-57](https://github.com/diku-py/simple_quiz_game_web/assets/165680478/14025882-2a11-4249-8079-0be7749aee72)
+
+![Screenshot from 2024-04-03 10-35-09](https://github.com/diku-py/simple_quiz_game_web/assets/165680478/56aaef5b-e7b9-4d76-a7d6-f181e365b5ef)
+
 ## Wanna modify?
 
 You can test it out just by downloading or clone it using `git clone https://github.com/diku-py/simple_quiz_game_web.git`
